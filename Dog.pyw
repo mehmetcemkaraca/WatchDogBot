@@ -10,7 +10,7 @@ def send_startup_message():
     chat_id = "-"
     params = {
         "chat_id": chat_id,
-        "text": "Computer turn on"
+        "text": "computer is on"
     }
     i = 1
     while i != 0:
